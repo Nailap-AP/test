@@ -748,7 +748,7 @@ st.markdown(
     """
     <div style="text-align: center; color: #666; padding: 1rem;">
         <p>🔬 <strong>NaNote v1.0</strong> - Aplikasi Catatan Praktikum & Kalkulator PSA</p>
-        <p>Dikembangkan untuk membantu praktikan nanomaterial | © 2024</p>
+        <p>Dikembangkan untuk membantu praktikan nanomaterial | © 2026</p>
     </div>
     """,
     unsafe_allow_html=True
